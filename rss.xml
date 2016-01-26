@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Soul Venture Travel Collective]]></title>
         <description><![CDATA[Soul Venture Travel Collective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soul-venture-travel-collective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 03:38:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 03:50:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soul-venture-travel-collective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/909387af-db8c-467f-b7c6-b2d40a4838b6.jpg">]]></description>
+            <link>https://thegrid.ai/soul-venture-travel-collective/683621da-321b-43ce-9532-fd7f73c6d191/index.html</link>
+            <guid isPermaLink="false">683621da-321b-43ce-9532-fd7f73c6d191</guid>
+            <pubDate>Tue, 26 Jan 2016 03:50:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome. ]]></title>
             <description><![CDATA[<article><h1>Welcome. </h1><p>Soul Venture, Travel Collective is for anyone on the journey, who is seeking connection, support and encouragement on their path.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8c6719b8a43e2d797b25cc1dc4f632a1f5ab266.jpg"></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/soul-venture-travel-collective/welcome/index.html</link>
             <guid isPermaLink="false">b90316cb-0400-48ff-8c8c-0fee7d7f79b8</guid>
             <pubDate>Tue, 26 Jan 2016 03:38:54 GMT</pubDate>
         </item>
