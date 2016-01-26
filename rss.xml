@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soul Venture Travel Collective]]></title>
+        <description><![CDATA[Soul Venture Travel Collective]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 03:38:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome. ]]></title>
+            <description><![CDATA[<article><h1>Welcome. </h1><p>Soul Venture, Travel Collective is for anyone on the journey, who is seeking connection, support and encouragement on their path.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8c6719b8a43e2d797b25cc1dc4f632a1f5ab266.jpg"></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">b90316cb-0400-48ff-8c8c-0fee7d7f79b8</guid>
+            <pubDate>Tue, 26 Jan 2016 03:38:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
