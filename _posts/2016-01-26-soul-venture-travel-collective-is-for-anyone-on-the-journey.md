@@ -1,11 +1,11 @@
 ---
 description: "Soul Venture, Travel Collective is for anyone on the journey, who is seeking connection,\_support and encouragement on their path.  Breathwork is an amazing moda"
 author: []
-datePublished: '2016-01-26T03:53:21.311Z'
+datePublished: '2016-01-26T03:53:21.348Z'
 publisher:
   domain: www.peternathaniellee.com
   name: peternathaniellee.com
-dateModified: '2016-01-26T03:35:19.296Z'
+dateModified: '2016-01-26T03:35:05.866Z'
 title: ''
 sourcePath: _posts/2016-01-26-soul-venture-travel-collective-is-for-anyone-on-the-journey.md
 published: true
