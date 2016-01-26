@@ -1,0 +1,28 @@
+name: Soul Venture Travel Collective
+favicon: null
+layout_spectrum: 0.3363029242027551
+typography_spectrum: 0.04545575939118862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4312109830789268
+  lightness: 0.29592813621275127
+  saturation: 0.3512043484952301
+  rhythmicContrast: 0.4923085104674101
+purpose: []
